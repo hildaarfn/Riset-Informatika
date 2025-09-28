@@ -15,7 +15,7 @@ Repository ini berisi ringkasan dan perbandingan mengenai **metode penelitian** 
 
 ### 1. Metodologi Penelitian
 
-**Paper:** *Comparison of Effectiveness of Logistic Regression, Naive Bayes, and Random Forest Algorithms in Predicting Student Arguments*
+**Paper:** *Comparison of Effectiveness of Logistic Regression, Naive Bayes, and Random Forest Algorithms in Predicting Student Arguments* (./Metode Paper.pdf)
 
 **Alasan termasuk metodologi:**
 
