@@ -22,7 +22,7 @@ Repository ini berisi ringkasan dan perbandingan mengenai **metode penelitian** 
 ### 1. Metodologi Penelitian
 
 **Paper:** *Comparison of Effectiveness of Logistic Regression, Naive Bayes, and Random Forest Algorithms in Predicting Student Arguments*
-[📄 Lihat PDF](.Paper-Metode-Metodologi/Metodologi_Paper.pdf)
+[📄 Lihat PDF](./Metodologi_Paper.pdf)
 
 **Alasan termasuk metodologi:**
 
@@ -36,7 +36,7 @@ Repository ini berisi ringkasan dan perbandingan mengenai **metode penelitian** 
 ### 2. Metode Penelitian
 
 **Paper:** *Classification of Animal Sounds in a Hyperdiverse Rainforest Using Convolutional Neural Networks with Data Augmentation*
-[📄 Lihat PDF](.Paper-Metode-Metodologi/Metode_Paper.pdf)
+[📄 Lihat PDF](./Metode_Paper.pdf)
 
 **Alasan termasuk metode:**
 
