@@ -9,6 +9,6 @@
 ---
 ## Mind-Mapping
 <p align="center">
-  <img src="mindmap.jpg" alt="Mindmap Project" width="400">
+  <img src="Mindmap.jpg" alt="Mindmap Project" width="400">
 </p>
 
