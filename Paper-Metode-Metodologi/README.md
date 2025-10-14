@@ -1,5 +1,3 @@
-## 👩‍💻 Author
-
 Disusun oleh: **Hilda Desfianty A/22081010206**
 
 ---
